@@ -15,6 +15,8 @@ Before you can build the project, need to make sure all dependencies are install
 1. `$ bundle install`
 1. `$ bower install`
 
+## Edit project with Google Maps API Key
+
 ## Develop locally
 1. `$ ./gradlew bootrun` Start the Sprint Boot App up
 1. `$ grunt serve` Start the local server with LiveReload enabled
